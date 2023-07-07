@@ -1,4 +1,4 @@
-package exception;
+/*package exception;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -15,4 +15,4 @@ public class Main {
         String upperCaseAlphabet = str.toUpperCase();
         System.out.println(upperCaseAlphabet);
     }
-}
+}*/
